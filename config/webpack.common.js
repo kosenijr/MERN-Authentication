@@ -75,7 +75,7 @@ module.exports = {
     }),
 
     new HtmlWebpackPlugin({
-      template: helpers.root('client/public/index.html'),
+      template: helpers.root('client/public/index2.html'),
       inject: 'body'
     }),
 
